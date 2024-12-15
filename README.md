@@ -24,15 +24,20 @@ clang++ -std=c++17 linkedList.cpp -o basic_data_structures
 ./basic_data_structures
 
 Files Overview
+
 basic_data_structures.cpp
+
 _Foundational data structures:_
 - LinkedList (templated)
 - CircularLinkedList
 - Stack, Queue, PriorityQueue
 - Set, Map, UnorderedMap
 - Array, Matrix, Bitset, Deque, Vector, Span, etc.
+
 advanced_data_structures.cpp
+
 _Complex data structures:_
+
 - Self-Balancing BSTs (AVL, Splay, Red-Black stubs)
 - Disjoint Set (Union-Find)
 - Tries (Prefix Trees)

@@ -15,14 +15,21 @@ This repository contains two C++ files demonstrating a variety of data structure
 ### Compilation and Execution
 
 Use **Clang** with C++17 support (GCC also works similarly):
-**To Compile:**
-clang++ -std=c++17 linkedList.cpp -o <FILENAME>
-**To Rune:**
-./<FILENAME>
-**Example:**
-clang++ -std=c++17 linkedList.cpp -o basic_data_structures
-./basic_data_structures
 
+**To Compile:**
+
+clang++ -std=c++17 linkedList.cpp -o <FILENAME>
+
+**To Rune:**
+
+./<FILENAME>
+
+**Example:**
+
+clang++ -std=c++17 linkedList.cpp -o basic_data_structures
+
+./basic_data_structures
+---
 Files Overview
 
 basic_data_structures.cpp

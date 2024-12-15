@@ -18,11 +18,11 @@ Use **Clang** with C++17 support (GCC also works similarly):
 
 **To Compile:**
 
-clang++ -std=c++17 linkedList.cpp -o <FILENAME>
+clang++ -std=c++17 linkedList.cpp -o FILENAME
 
-**To Rune:**
+**To Run:**
 
-./<FILENAME>
+./FILENAME
 
 **Example:**
 
